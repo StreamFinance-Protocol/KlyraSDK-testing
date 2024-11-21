@@ -6,6 +6,8 @@ export const mnemonics = {
   dave: "switch boring kiss cash lizard coconut romance hurry sniff bus accident zone chest height merit elevator furnace eagle fetch quit toward steak mystery nest",
   emily:
     "brave way sting spin fog process matrix glimpse volcano recall day lab raccoon hand path pig rent mixture just way blouse alone upon prefer",
+  faucet:
+    "link dutch only result wealth snack green mango visit fence erosion ramp venture calm club digital barely slot bone laundry hazard chair detail below",
 };
 
 export const addys = {
@@ -14,4 +16,5 @@ export const addys = {
   carl: "klyra1fjg6zp6vv8t9wvy4lps03r5l4g7tkjw93awcky",
   dave: "klyra1wau5mja7j7zdavtfq9lu7ejef05hm6ffxz2hcc",
   emily: "klyra1966p9acs4mpgj40g3awctfvgrz0mnx8wtad6cf",
+  faucet: "klyra14p4plegy0evk2vp5als20evj9828cezwulfdct",
 };
